@@ -22,9 +22,9 @@
           destroy-method="doMyDestroy">
     </bean>
 
-    <!--    <bean id="musicBean3"-->
-    <!--          class="com.xandr.springcourse.les08.RapMusic">-->
-    <!--    </bean>-->
+    <bean id="musicBean3"
+          class="com.xandr.springcourse.les08.RapMusic">
+    </bean>
 
     <bean id="musicPlayerBean"
           class="com.xandr.springcourse.les08.MusicPlayer"
